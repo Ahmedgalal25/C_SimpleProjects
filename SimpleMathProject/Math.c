@@ -11,7 +11,10 @@
 
 double sum(int a,int b)
 {
-	return a+b;
+int x = a+b;
+	return x;
+
+
 	}
 
 
